@@ -5,7 +5,7 @@
 
 I'm Kenneth (but you can call me Kenny) from the U.K. I am a self taught Front-End Developer working my way up towards a Full-Stack Developer. I am taking this journey to become a developer and would love for you guys to join me! I really enjoy learning coding languages and currently starting to learn frameworks like React.
 
-<a href="https://discord.gg/zxdyZAsZXM ">Discord</a>
+<a href="https://discord.gg/zxdyZAsZXM ">Discord Community</a>
 
 Skills: HTML / CSS / JS / REACT
 
