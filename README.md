@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kenneth
 #### Self-Taught Front End Developer
-![Self-Taught Front End Developer](https://pbs.twimg.com/profile_banners/1326511929364508673/1724584205/600x200)
+![Self-Taught Front End Developer](https://github.com/Kennychiu0701/Kennychiu0701/blob/main/banner.png)
 
 I'm Kenneth (but you can call me Kenny) from the U.K. I am a self taught Front-End Developer working my way up towards a Full-Stack Developer. I am taking this journey to become a developer and would love for you guys to join me! I really enjoy learning coding languages and currently starting to learn frameworks like React. You can visit my website at kennethchiu.co.uk to join my community on Discord or Instagram!
 
